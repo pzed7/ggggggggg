@@ -10,4 +10,4 @@ client.once('ready', () => {
 
 
 
-client.login('OTQ4OTgyMzI2OTUwNDk0MzE5.YiDuqQ.llXcA_5vwgyUYy6Au1KwR7_ziN4');
+client.login('OTQ4OTgyMzI2OTUwNDk0MzE5.YiDuqQ.JsDu0ch1gHkohHI8AdQHyuLDh6Q');
